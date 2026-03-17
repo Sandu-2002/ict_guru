@@ -143,7 +143,10 @@ class _LoadingScreenPageState extends State<LoadingScreenPage>
                 children: [
                   ScaleTransition(
                     scale: _animation,
-                    child: Image.asset("assets/images/ictguru.png", width: 110),
+                    child: Image.asset(
+                      "assets/images/ict guru.png",
+                      width: 110,
+                    ),
                   ),
 
                   const SizedBox(height: 10),
