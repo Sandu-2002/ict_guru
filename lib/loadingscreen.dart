@@ -162,10 +162,10 @@ class _LoadingScreenPageState extends State<LoadingScreenPage>
 
                   const SizedBox(height: 30),
 
-                  /*Row(
+                  Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [dot(true), dot(false), dot(false)],
-                  ),*/
+                  ),
                 ],
               ),
             ),
