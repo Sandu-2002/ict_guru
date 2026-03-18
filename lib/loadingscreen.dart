@@ -165,7 +165,7 @@ class _LoadingScreenPageState extends State<LoadingScreenPage>
                   /*Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [dot(true), dot(false), dot(false)],
-                  ),
+                  ),*/
                 ],
               ),
             ),
